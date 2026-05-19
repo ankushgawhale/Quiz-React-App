@@ -15,6 +15,7 @@ React.js
 JavaScript (ES6+)
 Tailwind CSS
 React Hooks (useState, useRef)
+
 📁 Project Structure
 Quiz App/
 │
